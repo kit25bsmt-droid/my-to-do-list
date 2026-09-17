@@ -3,7 +3,7 @@ My personal to-do list
 
 ## Tasks
 
-- [ ] Learn GitHub
+- [x] Learn GitHub
 - [ ] Create my first project
 - [ ] Learn Git
 - [ ] Upload a project
